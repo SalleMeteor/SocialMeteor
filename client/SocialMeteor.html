@@ -1,0 +1,32 @@
+<head>
+  <title>SocialMeteor</title>
+</head>
+
+<body>
+  {{> loginButtons align="right"}}<br>
+  
+  <div align="middle"><h1>SocialMeteor</h1>
+  {{> entrada }}</div>
+  {{> missatges  }}
+</body>
+
+<template name="missatges">
+  <div align="middle"> 
+    <br>
+	  <table width="50%" align="middle" border="1" overflow="auto">
+      <tr>
+        <td>
+          {{#each missatges}}
+          <strong>{{time}} ({{nom}}):</strong> {{missatge}}<br>
+          {{/each}}
+        </td>
+      </tr>
+    </table>
+    </div>
+</template>
+
+<template name="entrada">
+  <input type="text" id="missatge" size="100" placeholder="Escriu el teu missatge aqui.">
+  <input type="button" id="submit"  value="Enviar"><br>
+  
+</template>
