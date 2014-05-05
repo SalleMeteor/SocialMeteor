@@ -19,7 +19,7 @@ How to use it:
   1) Create project
   2) Upload the files
   3) install packages
-  4) meteor
+  4) command -> meteor
 
 Deployed URL:
 
