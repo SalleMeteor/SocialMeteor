@@ -2,25 +2,26 @@ SocialMeteor
 ============
 
 An app made so that people can talk from their own PC to other people instantly(anonimously or logged in).
-
-Creators:
+<br><br>
+<b>Creators:</b><br>
   
-  Enrique Bernalte
-  Ernest Obach.
+  Enrique Bernalte<br>
+  Ernest Obach<br>
 
-Packages: 
-  accounts-ui
-  accounts-password
-  iron router
-  bootstrap-3
+<b>Packages: </b>
+<br><br>
+  accounts-ui<br>
+  accounts-password<br>
+  iron router<br>
+  bootstrap-3<br>
 
-How to use it:
+<b>How to use it:</b><br>
 
-  1) Create project
-  2) Upload the files
-  3) install packages
-  4) command -> meteor
+  1) Create project<br>
+  2) Upload the files<br>
+  3) install packages<br>
+  4) command -> meteor<br>
 
-Deployed URL:
-
+<b>Deployed URL:</b>
+<br>
   http://socialmeteor.meteor.com/
