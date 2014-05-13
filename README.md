@@ -12,7 +12,6 @@ An app made so that people can talk from their own PC to other people instantly(
 <br><br>
   accounts-ui<br>
   accounts-password<br>
-  iron router<br>
   bootstrap-3<br>
 
 <b>How to use it:</b><br>
